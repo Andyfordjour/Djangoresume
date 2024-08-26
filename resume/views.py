@@ -5,3 +5,6 @@ from django.http import HttpResponse
 
 def home(request):
     return render(request, 'home.html')
+
+def api_project(request):
+    return render(request, 'api_project.html')
