@@ -3,7 +3,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "Dresume/Dresume/wsgi.py"
+        "dest": "Dresume/wsgi.py"
       }
     ]
   }
