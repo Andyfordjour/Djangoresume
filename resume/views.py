@@ -13,5 +13,5 @@ def crm(request):
     return render(request, 'crm.html')
 
 def restaurant(request):
-    return render(request, 'crm.html')
+    return render(request, 'restaurant.html')
 
